@@ -1,0 +1,10 @@
+<map id="spinchain::apply_magnetic_kick" name="spinchain::apply_magnetic_kick">
+<area shape="rect" id="node2" href="$namespacecfpmath.html#a0e87a9ace78d12b29b6219ec271fa11a" title="cfpmath::merge_two\l_numbers" alt="" coords="270,41,411,82"/>
+<area shape="rect" id="node4" href="$namespacecfpmath.html#abf5bd8dc5d8af42a850231816e60e95f" title="cfpmath::pow_2" alt="" coords="685,56,799,83"/>
+<area shape="rect" id="node6" href="$namespaceitppextmath.html#a222aa8c457a93a8667f89eae38c08c0b" title="itppextmath::exp_minus\l_i_b_sigma" alt="" coords="260,158,421,199"/>
+<area shape="rect" id="node3" href="$namespacecfpmath.html#ad47bd5592779c8df68c618acfbed5ecc" title="cfpmath::test_bit" alt="" coords="476,5,596,32"/>
+<area shape="rect" id="node5" href="$namespacecfpmath.html#a688f1d2b481a55142e9951be28b3275d" title="cfpmath::set_bit" alt="" coords="478,56,594,83"/>
+<area shape="rect" id="node7" href="$namespaceitppextmath.html#aba26eee000b8df67356695966d055999" title="itppextmath::sigma" alt="" coords="469,165,603,192"/>
+<area shape="rect" id="node8" href="$test__spins_8cpp.html#a27ffb1722fa87a1797329ba47b0d8221" title="qubits" alt="" coords="713,140,771,167"/>
+<area shape="rect" id="node9" href="$namespaceitppextmath.html#ac8477886770d8df6d3dedba2eca68d43" title="itppextmath::TensorProduct" alt="" coords="651,191,833,217"/>
+</map>

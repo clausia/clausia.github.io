@@ -1,0 +1,6 @@
+<map id="QuantumState::size" name="QuantumState::size">
+<area shape="rect" id="node2" href="$class_quantum_state.html#a3ff7d7d1c8d6e001011be668b72c0a3e" title="Method to get the norm of the quantum state. " alt="" coords="192,13,335,39"/>
+<area shape="rect" id="node5" href="$quantum__state_8hpp.html#a6905873ecd369c4af3f3037e6eeda583" title="Dot product for two different states. " alt="" coords="218,63,309,90"/>
+<area shape="rect" id="node3" href="$class_quantum_state.html#ad1088c09938d6a4a964b810a703d3326" title="A method to reinitialize to a random state. " alt="" coords="383,5,545,47"/>
+<area shape="rect" id="node4" href="$class_quantum_state.html#a515254e3644ced096254ee9956fcced4" title="The constructor. Initialized to a random state by default. " alt="" coords="593,13,792,39"/>
+</map>

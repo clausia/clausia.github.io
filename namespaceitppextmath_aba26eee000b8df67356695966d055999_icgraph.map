@@ -1,0 +1,46 @@
+<map id="itppextmath::sigma" name="itppextmath::sigma">
+<area shape="rect" id="node2" href="$namespaceitppextmath.html#aa4040144288798b5891d1495aa65f8dc" title="itppextmath::sigma" alt="" coords="221,655,354,682"/>
+<area shape="rect" id="node3" href="$namespaceitppextmath.html#a222aa8c457a93a8667f89eae38c08c0b" title="itppextmath::exp_minus\l_i_b_sigma" alt="" coords="207,707,368,748"/>
+<area shape="rect" id="node27" href="$namespaceitppextmath.html#ae46953c9ecd4f5f972446309e11da2cf" title="itppextmath::magnetic" alt="" coords="212,773,363,799"/>
+<area shape="rect" id="node28" href="$namespaceitppextmath.html#a9a765f05511d21dbd85405855b733c0b" title="itppextmath::LambdaMatrix\lQubitRight" alt="" coords="197,824,377,865"/>
+<area shape="rect" id="node29" href="$namespaceitppextmath.html#a2957cbd7ea32e1ddf2991b255efeba46" title="itppextmath::LambdaMatrix\lQubitLeft" alt="" coords="197,889,377,931"/>
+<area shape="rect" id="node33" href="$namespaceitppextmath.html#a6b144c204bc6ad381195bcd1b43c9eba" title="itppextmath::OperatorToVector\lPauliBasis" alt="" coords="187,955,388,996"/>
+<area shape="rect" id="node35" href="$namespaceitppextmath.html#aea2c2fe8d93ac3b804a1543344bfad33" title="itppextmath::test_multiply\l_by_sigma_leftmost_qubit" alt="" coords="200,1020,375,1061"/>
+<area shape="rect" id="node36" href="$namespacerandom__variables.html#a5e29d59f9b4acc7d4b95cf25e66f03df" title="random_variables::Sample\lNormal" alt="" coords="199,1137,375,1179"/>
+<area shape="rect" id="node37" href="$namespacerandom__variables.html#ac0e754518da2232088813b9ec43f0da9" title="random_variables::Complex\lSampleNormal" alt="" coords="447,1079,631,1120"/>
+<area shape="rect" id="node41" href="$namespacespinchain.html#a9d065e9e74e9a75d3fb38538510205cb" title="spinchain::MatrixForIsingZ" alt="" coords="199,1203,375,1230"/>
+<area shape="rect" id="node44" href="$namespacespinchain.html#a9a7acec399334161083b98ca1719e2db" title="spinchain::Inefficient\l_magnetic" alt="" coords="216,1255,359,1296"/>
+<area shape="rect" id="node45" href="$testing_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="262,1321,313,1347"/>
+<area shape="rect" id="node4" href="$namespacespinchain.html#a2fa5934c057f466139e35a3cb8b71631" title="spinchain::apply_magnetic_kick" alt="" coords="436,409,643,435"/>
+<area shape="rect" id="node10" href="$test__spins_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1437,423,1488,450"/>
+<area shape="rect" id="node5" href="$namespacespinchain.html#ab5538f7214c48a7a31b0b9d29d93fc0a" title="spinchain::apply_chain\l_backwards" alt="" coords="717,53,871,95"/>
+<area shape="rect" id="node7" href="$namespacespinchain.html#ac3f30121dc362e5979522a063b2d382f" title="spinchain::apply_chain" alt="" coords="717,151,871,178"/>
+<area shape="rect" id="node11" href="$namespacespinchain.html#a895fd1c5a0c19582f3f57fc6bf0509c2" title="spinchain::apply_spectator" alt="" coords="705,278,883,305"/>
+<area shape="rect" id="node12" href="$namespacespinchain.html#afa9981c00daf2185b1f92ec4b4470be6" title="spinchain::apply_vinayak" alt="" coords="710,329,878,355"/>
+<area shape="rect" id="node13" href="$namespacespinchain.html#a046cd1558aa1a78cabc860f0154798a2" title="spinchain::apply_common\l_environment_chain" alt="" coords="1204,299,1377,340"/>
+<area shape="rect" id="node14" href="$namespacespinchain.html#a01a3e1a629f4ab36c65cae45802b0121" title="spinchain::apply_kick\l_star_most" alt="" coords="721,431,867,472"/>
+<area shape="rect" id="node17" href="$namespacespinchain.html#ab4dfdbbd2c9f47e95cd06302c5dfef53" title="spinchain::apply_kick_star" alt="" coords="706,497,882,523"/>
+<area shape="rect" id="node23" href="$namespacespinchain.html#a9ff32503de488e3461b4dbaa7e2fb49a" title="spinchain::apply_kick\l_spectator_double_chain" alt="" coords="711,548,877,589"/>
+<area shape="rect" id="node25" href="$namespacespinchain.html#a6578e6cbb2e1dc3436a2352e10c7e5bb" title="spinchain::apply_magnetic_kick" alt="" coords="691,614,897,641"/>
+<area shape="rect" id="node26" href="$namespacespinchain.html#aed3f8de3b730edd5b79c28ab1c13542c" title="spinchain::apply_magnetic\l_inhom" alt="" coords="706,665,882,707"/>
+<area shape="rect" id="node6" href="$namespacespinchain.html#afd8a1ea5dd1ed4b3c1ed0437058ef26f" title="spinchain::apply_chain\l_backwards" alt="" coords="967,5,1122,47"/>
+<area shape="rect" id="node8" href="$namespacespinchain.html#a4311610ae035f44dfa47cc2b5536f15b" title="spinchain::apply_chain\l_spit_state" alt="" coords="967,71,1122,112"/>
+<area shape="rect" id="node9" href="$namespacespinchain.html#ac99f8d067ade5e59552e7e1cca9113dc" title="spinchain::apply_chain" alt="" coords="967,137,1122,163"/>
+<area shape="rect" id="node15" href="$namespacespinchain.html#a6494d3dee07fd038b00d703c858c0682" title="spinchain::apply_star_most" alt="" coords="954,430,1135,457"/>
+<area shape="rect" id="node16" href="$namespacespinchain.html#a6cf9997c56e6470b28fe6c6075fd11a7" title="spinchain::MatrixForIsing\l_star_most" alt="" coords="1207,416,1375,457"/>
+<area shape="rect" id="node18" href="$namespacespinchain.html#a310b2a6b57e7f4acbedd298d1beaf42f" title="spinchain::apply_star" alt="" coords="972,482,1117,509"/>
+<area shape="rect" id="node21" href="$namespacespinchain.html#acff26c47a97ff00b912190683a641c9f" title="spinchain::apply_star\l_double" alt="" coords="972,533,1117,575"/>
+<area shape="rect" id="node22" href="$namespacespinchain.html#ae624bea6dbb6afff19795c936bda3288" title="spinchain::apply_star\l_double_closed" alt="" coords="972,599,1117,640"/>
+<area shape="rect" id="node19" href="$namespacespinchain.html#a347b85a9c670dc3e52b444530f9dc639" title="spinchain::apply_dephasing\l_chain" alt="" coords="1199,533,1382,575"/>
+<area shape="rect" id="node20" href="$namespacespinchain.html#af59df434fedf9760f26ef8de12a5208c" title="spinchain::MatrixForIsing_star" alt="" coords="1192,599,1389,626"/>
+<area shape="rect" id="node24" href="$namespacespinchain.html#ad27bf96f5ac52d8656732ac215119c68" title="spinchain::apply_spectator\l_double_chain" alt="" coords="956,664,1133,705"/>
+<area shape="rect" id="node30" href="$namespaceitppextmath.html#a3a70679d48264228dd0dd01a2ee50eb5" title="itppextmath::LambdaMatrix\lQubitLeft" alt="" coords="449,815,629,856"/>
+<area shape="rect" id="node31" href="$_lambda_8cpp.html#a00279d9af30ce0559ad6e8e071afddfe" title="test_fast_LambdaMatrix" alt="" coords="458,881,621,907"/>
+<area shape="rect" id="node32" href="$_lambda_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="514,931,565,958"/>
+<area shape="rect" id="node34" href="$namespaceitppextmath.html#a32239cc4ac99e886a2d64c42a8fe481c" title="itppextmath::TomographySingle\lQubit" alt="" coords="436,983,643,1024"/>
+<area shape="rect" id="node40" href="$random__demo__new_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="769,1145,819,1171"/>
+<area shape="rect" id="node38" href="$class_quantum_state.html#ad1088c09938d6a4a964b810a703d3326" title="A method to reinitialize to a random state. " alt="" coords="713,1079,875,1120"/>
+<area shape="rect" id="node39" href="$class_quantum_state.html#a515254e3644ced096254ee9956fcced4" title="The constructor. Initialized to a random state by default. " alt="" coords="945,1086,1144,1113"/>
+<area shape="rect" id="node42" href="$namespacespinchain.html#a27fac791a3ed200599df002224676cd1" title="spinchain::MatrixForIsing\l_open_chain" alt="" coords="455,1196,623,1237"/>
+<area shape="rect" id="node43" href="$namespacespinchain.html#a8450c879c403359c45400770e398da4f" title="spinchain::MatrixForIsing\l_chain" alt="" coords="455,1261,623,1303"/>
+</map>

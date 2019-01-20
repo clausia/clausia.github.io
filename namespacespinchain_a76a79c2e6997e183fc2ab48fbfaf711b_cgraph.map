@@ -1,0 +1,6 @@
+<map id="spinchain::apply_ising_star" name="spinchain::apply_ising_star">
+<area shape="rect" id="node2" href="$test__spins_8cpp.html#a27ffb1722fa87a1797329ba47b0d8221" title="qubits" alt="" coords="487,5,544,32"/>
+<area shape="rect" id="node3" href="$namespacecfpmath.html#ae2adca2461cce2b4efede98619da8be4" title="cfpmath::log_base_2" alt="" coords="444,68,587,95"/>
+<area shape="rect" id="node5" href="$namespacespinchain.html#ad4925ba3d0076b516f4c17dfb007fae3" title="spinchain::apply_ising_z" alt="" coords="232,31,396,57"/>
+<area shape="rect" id="node4" href="$namespacecfpmath.html#a1cc6b22b53a0991fc4c0b696c360e899" title="cfpmath::is_integer\l_power_2" alt="" coords="635,61,768,102"/>
+</map>

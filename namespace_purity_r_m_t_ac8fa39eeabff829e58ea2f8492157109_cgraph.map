@@ -1,0 +1,11 @@
+<map id="PurityRMT::get_time_info" name="PurityRMT::get_time_info">
+<area shape="rect" id="node2" href="$namespace_purity_r_m_t.html#a6e37c7db53f43ddd6c9d4b3ee9eb6c47" title="PurityRMT::TwoQubitSpectator\lHamiltonianEQQ" alt="" coords="224,23,429,65"/>
+<area shape="rect" id="node8" href="$namespace_purity_r_m_t.html#a65bf67b2e67bd839d7f51040b917ec05" title="PurityRMT::Time_Estimate\l_Purity" alt="" coords="236,89,417,130"/>
+<area shape="rect" id="node9" href="$namespaceitppextmath.html#ad3aeb711d30cdab97d60fa479ad75a5b" title="itppextmath::Purity" alt="" coords="261,155,393,181"/>
+<area shape="rect" id="node10" href="$_quantum_state_i_t_p_p_8cpp.html#a9c983b74d277170b4249f86140c7a93f" title="evolve_with_phases" alt="" coords="257,205,397,232"/>
+<area shape="rect" id="node3" href="$namespace_r_m_t.html#a5eadecf1772ba47f0492ffdd75fb18c8" title="RMT::FlatSpectrumGUE" alt="" coords="663,5,829,32"/>
+<area shape="rect" id="node7" href="$namespace_r_m_t.html#afb529f706294674df20620c8a7e42e33" title="RMT::RandomGUE" alt="" coords="477,56,615,83"/>
+<area shape="rect" id="node4" href="$namespace_r_m_t.html#aeb16a99bd8c6ea94fbba2b928af873a6" title="RMT::RandomGUEDeltaOne" alt="" coords="877,56,1069,83"/>
+<area shape="rect" id="node5" href="$namespace_r_m_t.html#ae4e6954b3240ad33423deca43976bfe3" title="RMT::unfoldcircular" alt="" coords="905,5,1041,32"/>
+<area shape="rect" id="node6" href="$namespace_r_m_t.html#adebf30644553abfe2e10af877f1950dc" title="RMT::unfolding_function" alt="" coords="1117,5,1281,32"/>
+</map>

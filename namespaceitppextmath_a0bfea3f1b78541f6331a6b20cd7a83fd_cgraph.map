@@ -1,0 +1,10 @@
+<map id="itppextmath::apply_sigma" name="itppextmath::apply_sigma">
+<area shape="rect" id="node2" href="$namespaceitppextmath.html#a24486dd52ae4cac2c72fdc01755ffa97" title="itppextmath::apply\l_sigma_x" alt="" coords="183,80,312,121"/>
+<area shape="rect" id="node7" href="$namespaceitppextmath.html#a2c0da80b7f18e53b39bff77d391a4ad4" title="itppextmath::apply\l_sigma_y" alt="" coords="183,166,312,208"/>
+<area shape="rect" id="node9" href="$namespaceitppextmath.html#aaca75ffe2ba18dd924046cd125412b2a" title="itppextmath::apply\l_sigma_z" alt="" coords="183,14,312,56"/>
+<area shape="rect" id="node3" href="$namespacecfpmath.html#a0e87a9ace78d12b29b6219ec271fa11a" title="cfpmath::merge_two\l_numbers" alt="" coords="360,57,501,98"/>
+<area shape="rect" id="node5" href="$namespacecfpmath.html#abf5bd8dc5d8af42a850231816e60e95f" title="cfpmath::pow_2" alt="" coords="717,64,832,91"/>
+<area shape="rect" id="node6" href="$namespacecfpmath.html#a688f1d2b481a55142e9951be28b3275d" title="cfpmath::set_bit" alt="" coords="551,119,667,146"/>
+<area shape="rect" id="node4" href="$namespacecfpmath.html#ad47bd5592779c8df68c618acfbed5ecc" title="cfpmath::test_bit" alt="" coords="549,64,669,91"/>
+<area shape="rect" id="node8" href="$test__spins_8cpp.html#abf188b893e95a7f7bf6b71cd2ea0ef18" title="Im" alt="" coords="411,275,450,302"/>
+</map>

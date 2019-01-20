@@ -1,0 +1,7 @@
+<map id="spinchain::MatrixForIsing_chain" name="spinchain::MatrixForIsing_chain">
+<area shape="rect" id="node2" href="$namespacespinchain.html#a9d065e9e74e9a75d3fb38538510205cb" title="spinchain::MatrixForIsingZ" alt="" coords="221,31,397,57"/>
+<area shape="rect" id="node3" href="$namespaceitppextmath.html#ac8477886770d8df6d3dedba2eca68d43" title="itppextmath::TensorProduct" alt="" coords="627,5,809,32"/>
+<area shape="rect" id="node4" href="$namespacecfpmath.html#abf5bd8dc5d8af42a850231816e60e95f" title="cfpmath::pow_2" alt="" coords="455,31,569,57"/>
+<area shape="rect" id="node5" href="$namespaceitppextmath.html#aba26eee000b8df67356695966d055999" title="itppextmath::sigma" alt="" coords="445,81,579,108"/>
+<area shape="rect" id="node6" href="$test__spins_8cpp.html#a27ffb1722fa87a1797329ba47b0d8221" title="qubits" alt="" coords="689,81,747,108"/>
+</map>

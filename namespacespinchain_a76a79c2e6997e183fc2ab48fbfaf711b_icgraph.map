@@ -1,0 +1,6 @@
+<map id="spinchain::apply_ising_star" name="spinchain::apply_ising_star">
+<area shape="rect" id="node2" href="$namespacespinchain.html#a310b2a6b57e7f4acbedd298d1beaf42f" title="spinchain::apply_star" alt="" coords="232,71,377,98"/>
+<area shape="rect" id="node3" href="$namespacespinchain.html#a347b85a9c670dc3e52b444530f9dc639" title="spinchain::apply_dephasing\l_chain" alt="" coords="433,5,615,47"/>
+<area shape="rect" id="node4" href="$test__spins_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="671,71,721,98"/>
+<area shape="rect" id="node5" href="$namespacespinchain.html#af59df434fedf9760f26ef8de12a5208c" title="spinchain::MatrixForIsing_star" alt="" coords="425,122,623,149"/>
+</map>

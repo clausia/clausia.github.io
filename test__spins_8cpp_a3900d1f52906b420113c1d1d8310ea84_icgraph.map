@@ -1,0 +1,9 @@
+<map id="i1" name="i1">
+<area shape="rect" id="node2" href="$namespaceitppextmath.html#ab860b21cbbd29f9682209fb7ac337126" title="itppextmath::partial\l_trace_qubits" alt="" coords="117,5,250,47"/>
+<area shape="rect" id="node3" href="$test__spins_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="415,42,465,69"/>
+<area shape="rect" id="node4" href="$namespaceitppextmath.html#afe49034f5f5fe3d1283091d37e8cdd7d" title="itppextmath::single\l_qubit_operator_tensor\l_identity" alt="" coords="106,122,261,178"/>
+<area shape="rect" id="node5" href="$namespaceitppextmath.html#a700631626cf0e4481139401c6ed6bf6f" title="itppextmath::TensorProduct" alt="" coords="92,202,275,229"/>
+<area shape="rect" id="node6" href="$namespaceitppextmath.html#a4e3f5074fa29e7a5999d492feeaa846f" title="itppextmath::Concurrence" alt="" coords="97,253,269,279"/>
+<area shape="rect" id="node7" href="$namespace_purity_r_m_t.html#a847ce0fbf230c3904fa27bb5aa6dd1d8" title="PurityRMT::EspectatorEigenvalues2\lQubitsArguments" alt="" coords="323,245,557,287"/>
+<area shape="rect" id="node8" href="$namespace_purity_r_m_t.html#af936fb11a5ff1c3082b1674938b8bc32" title="PurityRMT::EspectatorEigenvalues2\lQubits" alt="" coords="605,245,840,287"/>
+</map>

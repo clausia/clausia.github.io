@@ -1,0 +1,7 @@
+<map id="itppextmath::test_multiply_by_sigma_leftmost_qubit" name="itppextmath::test_multiply_by_sigma_leftmost_qubit">
+<area shape="rect" id="node2" href="$namespacecfpmath.html#abf5bd8dc5d8af42a850231816e60e95f" title="cfpmath::pow_2" alt="" coords="258,5,373,32"/>
+<area shape="rect" id="node3" href="$namespaceitppextmath.html#a1b13aed0cbfe9879b304f139ee2c5565" title="itppextmath::multiply\l_by_sigma_leftmost_qubit" alt="" coords="228,57,403,98"/>
+<area shape="rect" id="node4" href="$namespaceitppextmath.html#aba26eee000b8df67356695966d055999" title="itppextmath::sigma" alt="" coords="249,123,382,149"/>
+<area shape="rect" id="node5" href="$test__spins_8cpp.html#a27ffb1722fa87a1797329ba47b0d8221" title="qubits" alt="" coords="513,97,571,124"/>
+<area shape="rect" id="node6" href="$namespaceitppextmath.html#ac8477886770d8df6d3dedba2eca68d43" title="itppextmath::TensorProduct" alt="" coords="451,148,633,175"/>
+</map>

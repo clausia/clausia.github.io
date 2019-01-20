@@ -1,0 +1,4 @@
+<map id="QuantumState::norm" name="QuantumState::norm">
+<area shape="rect" id="node2" href="$class_quantum_state.html#ad1088c09938d6a4a964b810a703d3326" title="A method to reinitialize to a random state. " alt="" coords="196,5,359,47"/>
+<area shape="rect" id="node3" href="$class_quantum_state.html#a515254e3644ced096254ee9956fcced4" title="The constructor. Initialized to a random state by default. " alt="" coords="407,13,605,39"/>
+</map>

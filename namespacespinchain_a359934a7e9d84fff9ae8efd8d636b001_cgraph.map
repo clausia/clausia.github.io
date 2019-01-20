@@ -1,0 +1,8 @@
+<map id="spinchain::apply_external_reflection" name="spinchain::apply_external_reflection">
+<area shape="rect" id="node2" href="$namespacecfpmath.html#ae2adca2461cce2b4efede98619da8be4" title="cfpmath::log_base_2" alt="" coords="225,17,368,43"/>
+<area shape="rect" id="node4" href="$namespacecfpmath.html#af8d101c1d360b075e158a038dc082389" title="cfpmath::reverse_bits" alt="" coords="223,71,371,98"/>
+<area shape="rect" id="node3" href="$namespacecfpmath.html#a1cc6b22b53a0991fc4c0b696c360e899" title="cfpmath::is_integer\l_power_2" alt="" coords="419,5,552,47"/>
+<area shape="rect" id="node5" href="$namespacecfpmath.html#ad47bd5592779c8df68c618acfbed5ecc" title="cfpmath::test_bit" alt="" coords="425,71,545,98"/>
+<area shape="rect" id="node7" href="$namespacecfpmath.html#a688f1d2b481a55142e9951be28b3275d" title="cfpmath::set_bit" alt="" coords="427,122,543,149"/>
+<area shape="rect" id="node6" href="$namespacecfpmath.html#abf5bd8dc5d8af42a850231816e60e95f" title="cfpmath::pow_2" alt="" coords="600,97,715,123"/>
+</map>

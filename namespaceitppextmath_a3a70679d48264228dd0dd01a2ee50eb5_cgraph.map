@@ -1,0 +1,11 @@
+<map id="itppextmath::LambdaMatrixQubitLeft" name="itppextmath::LambdaMatrixQubitLeft">
+<area shape="rect" id="node2" href="$namespaceitppextmath.html#af0b1e30122a83066769ccf797e2a8a57" title="itppextmath::exponentiate" alt="" coords="237,78,409,105"/>
+<area shape="rect" id="node7" href="$namespaceitppextmath.html#a2957cbd7ea32e1ddf2991b255efeba46" title="itppextmath::LambdaMatrix\lQubitLeft" alt="" coords="233,129,413,171"/>
+<area shape="rect" id="node3" href="$namespaceitppextmath.html#adb8774c97d655de71f3bf73fd3fc4103" title="itppextmath::test_real\l_symmetric" alt="" coords="473,71,621,112"/>
+<area shape="rect" id="node6" href="$namespaceitppextmath.html#afaf99d19367b6887a3d6ad79622eee98" title="itppextmath::exponentiate\l_real_symmetric" alt="" coords="461,5,633,47"/>
+<area shape="rect" id="node4" href="$namespaceitppextmath.html#a16056fce786f8680434907f52f86c4d5" title="itppextmath::test_symmetry" alt="" coords="681,21,867,47"/>
+<area shape="rect" id="node5" href="$namespaceitppextmath.html#a3e4e11cf0eb431f4a70cbe83efb8ec2e" title="itppextmath::test_reality" alt="" coords="693,78,855,105"/>
+<area shape="rect" id="node8" href="$namespaceitppextmath.html#aba26eee000b8df67356695966d055999" title="itppextmath::sigma" alt="" coords="481,137,614,163"/>
+<area shape="rect" id="node9" href="$test__spins_8cpp.html#a27ffb1722fa87a1797329ba47b0d8221" title="qubits" alt="" coords="745,133,803,159"/>
+<area shape="rect" id="node10" href="$namespaceitppextmath.html#ac8477886770d8df6d3dedba2eca68d43" title="itppextmath::TensorProduct" alt="" coords="683,183,865,210"/>
+</map>

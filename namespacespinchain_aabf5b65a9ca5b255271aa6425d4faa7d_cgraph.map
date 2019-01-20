@@ -1,0 +1,6 @@
+<map id="spinchain::apply_vertical_rotation" name="spinchain::apply_vertical_rotation">
+<area shape="rect" id="node2" href="$namespacespinchain.html#ad1d0681d0d6d1bda480fb865cafaf823" title="spinchain::apply_vertical\l_rotation" alt="" coords="219,31,384,72"/>
+<area shape="rect" id="node3" href="$namespacecfpmath.html#ae2adca2461cce2b4efede98619da8be4" title="cfpmath::log_base_2" alt="" coords="432,13,575,39"/>
+<area shape="rect" id="node5" href="$namespacecfpmath.html#a6e40c403a01e32df807b66c8dd8c8e3f" title="cfpmath::rotate_bits" alt="" coords="434,63,573,90"/>
+<area shape="rect" id="node4" href="$namespacecfpmath.html#a1cc6b22b53a0991fc4c0b696c360e899" title="cfpmath::is_integer\l_power_2" alt="" coords="623,5,756,47"/>
+</map>

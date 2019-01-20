@@ -1,0 +1,12 @@
+<map id="cfpmath::primitive_period_bit_rotation" name="cfpmath::primitive_period_bit_rotation">
+<area shape="rect" id="node2" href="$namespacespinchain.html#a1c36ce3e03c96eae6f296dfe0d9a8bc6" title="spinchain::build_rotationally\l_symmetric_base_states_compact" alt="" coords="360,188,585,229"/>
+<area shape="rect" id="node10" href="$namespacespinchain.html#ab6b7d90f9c3042e169dcc280bdd3fbc4" title="spinchain::project\l_base_state" alt="" coords="188,251,312,292"/>
+<area shape="rect" id="node3" href="$namespacespinchain.html#a8b012880f03833e9e31f01a0ed0d46f6" title="spinchain::build_rotationally\l_symmetric_base_states_compact" alt="" coords="633,5,859,47"/>
+<area shape="rect" id="node4" href="$namespacespinchain.html#a689af3031678f46ffcb5cbb60d8686db" title="spinchain::build_rotationally\l_symmetric_2D_base" alt="" coords="655,71,837,112"/>
+<area shape="rect" id="node6" href="$namespacespinchain.html#a6d120e2c9c8ce6242a59da2545ed20d9" title="spinchain::DecodeCompact\lSymmetric2DBaseMember" alt="" coords="655,136,837,177"/>
+<area shape="rect" id="node7" href="$namespacespinchain.html#af59df434fedf9760f26ef8de12a5208c" title="spinchain::MatrixForIsing_star" alt="" coords="647,253,845,279"/>
+<area shape="rect" id="node8" href="$test__spins_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="907,253,957,279"/>
+<area shape="rect" id="node9" href="$namespacespinchain.html#a6cf9997c56e6470b28fe6c6075fd11a7" title="spinchain::MatrixForIsing\l_star_most" alt="" coords="662,304,830,345"/>
+<area shape="rect" id="node5" href="$test__spins2d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="907,111,957,138"/>
+<area shape="rect" id="node11" href="$namespacespinchain.html#a0e6ebd6ef091bde3d5aa50d2f041dbfc" title="spinchain::DecodeCompact\lRotationallySymetricBasisState" alt="" coords="369,253,576,295"/>
+</map>
