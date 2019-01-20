@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['b',['b',['../jquery_8js.html#a2fa551895933fae935a0a6b87282241d',1,'jquery.js']]],
   ['basisstate',['BasisState',['../namespaceitppextmath.html#acbbd6e6954fd3077db382d3b4900c13b',1,'itppextmath']]],
   ['bellrandom',['BellRandom',['../class_quantum_state_i_t_p_p.html#aa170c4e2bfd2d6c02c12ec60bfd69ad3',1,'QuantumStateITPP']]],
   ['bellstate',['BellState',['../namespaceitppextmath.html#ada22580533a133f0a29eb9b23c5d0ba0',1,'itppextmath::BellState(int dim=4)'],['../namespaceitppextmath.html#a89e4857106e23b961519bc15662cf277',1,'itppextmath::BellState(double theta)']]],

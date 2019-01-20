@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['purity_5frmt_2ecpp',['purity_RMT.cpp',['../purity___r_m_t_8cpp.html',1,'']]],
-  ['purity_5frmt_2eh',['purity_RMT.h',['../purity___r_m_t_8h.html',1,'']]]
+  ['random_5fdemo_5fnew_2ecpp',['random_demo_new.cpp',['../random__demo__new_8cpp.html',1,'']]],
+  ['readme_2emd',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['rmt_2ecpp',['RMT.cpp',['../_r_m_t_8cpp.html',1,'']]],
+  ['rmt_2eh',['RMT.h',['../_r_m_t_8h.html',1,'']]]
 ];

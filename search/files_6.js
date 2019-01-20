@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['machote_5fitpp_5ftclap_2ecpp',['machote_itpp_tclap.cpp',['../machote__itpp__tclap_8cpp.html',1,'']]],
-  ['my_5frandom_2ehpp',['my_random.hpp',['../my__random_8hpp.html',1,'']]]
+  ['purity_5frmt_2ecpp',['purity_RMT.cpp',['../purity___r_m_t_8cpp.html',1,'']]],
+  ['purity_5frmt_2eh',['purity_RMT.h',['../purity___r_m_t_8h.html',1,'']]]
 ];

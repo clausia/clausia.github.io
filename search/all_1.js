@@ -1,11 +1,7 @@
 var searchData=
 [
-  ['ad',['aD',['../jquery_8js.html#ad223f5fba68c41c1236671ac5c5b0fcb',1,'jquery.js']]],
   ['all_5fbit_5frotations',['all_bit_rotations',['../namespaceitppextmath.html#a26e979969612aaea7a704f4d90e4c4a6',1,'itppextmath']]],
   ['all_5fn_5fbit_5fnumbers',['all_n_bit_numbers',['../namespaceitppextmath.html#a752ccdb02d0a0220e2b2e9be72bdff78',1,'itppextmath']]],
-  ['am',['aM',['../jquery_8js.html#a8cc6111a5def3ea889157d13fb9a9672',1,'jquery.js']]],
-  ['animationinprogress',['animationInProgress',['../navtree_8js.html#a588cb5a5004d817923eb3f45c8f0f7c7',1,'navtree.js']]],
-  ['ap',['ap',['../jquery_8js.html#a6ddf393cc7f9a8828e197bb0d9916c44',1,'jquery.js']]],
   ['apply_5fchain',['apply_chain',['../namespacespinchain.html#ac3f30121dc362e5979522a063b2d382f',1,'spinchain::apply_chain(itpp::cvec &amp;state, double J, itpp::vec magnetic_field)'],['../namespacespinchain.html#ac99f8d067ade5e59552e7e1cca9113dc',1,'spinchain::apply_chain(itpp::cvec &amp;state, double J, itpp::vec magnetic_field, int t)']]],
   ['apply_5fchain_5fbackwards',['apply_chain_backwards',['../namespacespinchain.html#ab5538f7214c48a7a31b0b9d29d93fc0a',1,'spinchain::apply_chain_backwards(itpp::cvec &amp;state, double J, itpp::vec magnetic_field)'],['../namespacespinchain.html#afd8a1ea5dd1ed4b3c1ed0437058ef26f',1,'spinchain::apply_chain_backwards(itpp::cvec &amp;state, double J, itpp::vec magnetic_field, int t)']]],
   ['apply_5fchain_5fspit_5fstate',['apply_chain_spit_state',['../namespacespinchain.html#a4311610ae035f44dfa47cc2b5536f15b',1,'spinchain']]],
@@ -51,14 +47,11 @@ var searchData=
   ['apply_5fvertical_5frotation',['apply_vertical_rotation',['../namespacespinchain.html#ad1d0681d0d6d1bda480fb865cafaf823',1,'spinchain::apply_vertical_rotation(itpp::cvec &amp;state_in, int horizontal_dimension)'],['../namespacespinchain.html#aabf5b65a9ca5b255271aa6425d4faa7d',1,'spinchain::apply_vertical_rotation(itpp::cvec &amp;state_in, int horizontal_dimension, int power)']]],
   ['apply_5fvinayak',['apply_vinayak',['../namespacespinchain.html#afa9981c00daf2185b1f92ec4b4470be6',1,'spinchain']]],
   ['applyudiagudagger',['applyUDiagUdagger',['../namespaceitppextmath.html#acc807c2273283a3fe0b404851943f874',1,'itppextmath']]],
-  ['aq',['aQ',['../jquery_8js.html#a79eb58dc6cdf0aef563d5dc1ded27df5',1,'jquery.js']]],
   ['are_5ftwo_5fbits_5fon_5fone',['are_two_bits_on_one',['../namespacecfpmath.html#ac74c0aeb55afa0471d5908dff5f96ff3',1,'cfpmath']]],
   ['areallequal',['AreAllEqual',['../namespaceitppextmath.html#a5c149ffb1a8f97dae2cb8ec5969a8d2f',1,'itppextmath']]],
   ['areequal',['AreEqual',['../namespaceitppextmath.html#abaa0ae2d646957edc4e61a2737d013f5',1,'itppextmath']]],
   ['areequal_5fmodulo_5forder',['AreEqual_modulo_order',['../namespaceitppextmath.html#a84a859248955c9f3a8e4c4f969168d92',1,'itppextmath']]],
   ['array_5fto_5fmatrix',['Array_to_Matrix',['../namespaceitppextmath.html#a98fa71ea9c89981016ed20498aade3a8',1,'itppextmath']]],
   ['arraytomatrix',['ArrayToMatrix',['../namespaceitppextmath.html#a1db134bcc673ab99ee2bc0edc73cebbb',1,'itppextmath']]],
-  ['atimesdiagb',['AtimesDiagB',['../namespaceitppextmath.html#ac0b2e1a0c9dfa5af9118227349c7679b',1,'itppextmath']]],
-  ['au',['au',['../jquery_8js.html#a4fd8ddfab07c8d7c7cae0ab0e052cad3',1,'jquery.js']]],
-  ['az',['aZ',['../jquery_8js.html#ac87125cdee1a5e57da4ef619af49bc7d',1,'jquery.js']]]
+  ['atimesdiagb',['AtimesDiagB',['../namespaceitppextmath.html#ac0b2e1a0c9dfa5af9118227349c7679b',1,'itppextmath']]]
 ];

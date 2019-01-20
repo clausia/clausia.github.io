@@ -6,7 +6,6 @@ var searchData=
   ['decodecompactsymmetric2dbasemember',['DecodeCompactSymmetric2DBaseMember',['../namespacespinchain.html#a6d120e2c9c8ce6242a59da2545ed20d9',1,'spinchain']]],
   ['degenerate',['degenerate',['../classspinchain_1_1_compact_symmetric_base_member.html#a8d638bfe4f0ee09751025f08885aea7f',1,'spinchain::CompactSymmetricBaseMember']]],
   ['del',['del',['../namespaceitppextmath.html#a5a3a9bbb71fed40c63b43fb948ec1336',1,'itppextmath']]],
-  ['deletelink',['deleteLink',['../navtree_8js.html#abdf8e0e69c89803c1b84784a13b7fd2e',1,'navtree.js']]],
   ['delta',['Delta',['../test__spins_8cpp.html#a2ee8a150bb54ec98032ed8bbaa10addc',1,'test_spins.cpp']]],
   ['descale',['DeScale',['../namespaceitppextmath.html#acbc392d9bfaea8f5490df9ceda31060d',1,'itppextmath']]],
   ['dev_5frandom_2ecpp',['dev_random.cpp',['../dev__random_8cpp.html',1,'']]],
@@ -17,6 +16,5 @@ var searchData=
   ['displace',['Displace',['../namespaceitppextmath.html#aedd48b707f175c2f42ccb42465412f3b',1,'itppextmath::Displace(const itpp::Array&lt; itpp::ivec &gt; &amp;set_of_vectors, const itpp::ivec displacement_vector)'],['../namespaceitppextmath.html#ab46fdeb36ce5e7a7e4c226ca012d5822',1,'itppextmath::Displace(const itpp::Mat&lt; int &gt; &amp;set_of_vectors, const itpp::Vec&lt; int &gt; displacement_vector)']]],
   ['displacescalemodulize',['DisplaceScaleModulize',['../namespaceitppextmath.html#adf6341f5e389169d62c9e5b265e28e6c',1,'itppextmath']]],
   ['dot_5fproduct',['dot_product',['../quantum__state_8hpp.html#a6905873ecd369c4af3f3037e6eeda583',1,'quantum_state.hpp']]],
-  ['dotheyintersect',['DoTheyIntersect',['../namespaceitppextmath.html#a76c3aff62b81888e8bd7d56b5dc3fbd4',1,'itppextmath']]],
-  ['dynsections_2ejs',['dynsections.js',['../dynsections_8js.html',1,'']]]
+  ['dotheyintersect',['DoTheyIntersect',['../namespaceitppextmath.html#a76c3aff62b81888e8bd7d56b5dc3fbd4',1,'itppextmath']]]
 ];

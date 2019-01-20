@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['header',['header',['../resize_8js.html#af920c2a7d4f4b5a962fe8e11257f871d',1,'resize.js']]]
+  ['sign',['sign',['../classspinchain_1_1_compact_symmetric_base_member.html#a8c7daf31ef3c17305a0f5e452cce7c7c',1,'spinchain::CompactSymmetricBaseMember::sign()'],['../classspinchain_1_1_compact_symmetric2_d_base_member.html#ab001ad6334700cc79df1af740c05a747',1,'spinchain::CompactSymmetric2DBaseMember::sign()']]]
 ];

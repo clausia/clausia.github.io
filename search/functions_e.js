@@ -1,12 +1,10 @@
 var searchData=
 [
-  ['p',['p',['../jquery_8js.html#a2335e57f79b6acfb6de59c235dc8a83e',1,'jquery.js']]],
   ['parity_5forder_5finversion_5fbase_5f2',['parity_order_inversion_base_2',['../namespacecfpmath.html#aee943e1097003305fc0bf407bcfa8609',1,'cfpmath']]],
   ['parity_5fsum_5fdigits_5fbase_5f2',['parity_sum_digits_base_2',['../namespacecfpmath.html#af3c32bd1720f4995f7b8bb27724ca9c1',1,'cfpmath']]],
   ['partial_5ftrace',['partial_trace',['../namespaceitppextmath.html#a5eba978dfe35f1f0bde18022126e5872',1,'itppextmath']]],
   ['partial_5ftrace_5fqubits',['partial_trace_qubits',['../namespaceitppextmath.html#ab860b21cbbd29f9682209fb7ac337126',1,'itppextmath::partial_trace_qubits(itpp::cvec state, int which)'],['../namespaceitppextmath.html#aa20dfeca3f68eda17c2fcadfa31bf670',1,'itppextmath::partial_trace_qubits(const itpp::cmat &amp;rho, int which)']]],
   ['partialtrace',['PartialTrace',['../class_quantum_state_i_t_p_p.html#aa130e84e83744b15ea133db68dc8c848',1,'QuantumStateITPP']]],
-  ['pathname',['pathName',['../navtree_8js.html#a364b3f4132309fa9aae78585cf2cb772',1,'navtree.js']]],
   ['perturbation',['perturbation',['../_lambda_8cpp.html#a913a4ea68eef285508ab80689a5eff74',1,'Lambda.cpp']]],
   ['position',['position',['../test__spins_8cpp.html#a081a3c90b5ddb319e1866471b948e0c5',1,'position(&quot;&quot;,&quot;position&quot;,&quot;The position of something&quot;, false, 1,&quot;int&quot;, cmd):&#160;test_spins.cpp'],['../test__spins2d_8cpp.html#a081a3c90b5ddb319e1866471b948e0c5',1,'position(&quot;&quot;,&quot;position&quot;,&quot;The position of something&quot;, false, 1,&quot;int&quot;, cmd):&#160;test_spins2d.cpp']]],
   ['position2',['position2',['../test__spins_8cpp.html#ad38665656d61d491d26c78ce5393a4f2',1,'position2(&quot;&quot;,&quot;position2&quot;,&quot;The position of something&quot;, false, 3,&quot;int&quot;, cmd):&#160;test_spins.cpp'],['../test__spins2d_8cpp.html#ad38665656d61d491d26c78ce5393a4f2',1,'position2(&quot;&quot;,&quot;position2&quot;,&quot;The position of something&quot;, false, 3,&quot;int&quot;, cmd):&#160;test_spins2d.cpp']]],

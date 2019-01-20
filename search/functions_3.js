@@ -5,7 +5,6 @@ var searchData=
   ['decodecompactrotationallysymetricbasisstate',['DecodeCompactRotationallySymetricBasisState',['../namespacespinchain.html#a0e6ebd6ef091bde3d5aa50d2f041dbfc',1,'spinchain']]],
   ['decodecompactsymmetric2dbasemember',['DecodeCompactSymmetric2DBaseMember',['../namespacespinchain.html#a6d120e2c9c8ce6242a59da2545ed20d9',1,'spinchain']]],
   ['del',['del',['../namespaceitppextmath.html#a5a3a9bbb71fed40c63b43fb948ec1336',1,'itppextmath']]],
-  ['deletelink',['deleteLink',['../navtree_8js.html#abdf8e0e69c89803c1b84784a13b7fd2e',1,'navtree.js']]],
   ['delta',['Delta',['../test__spins_8cpp.html#a2ee8a150bb54ec98032ed8bbaa10addc',1,'test_spins.cpp']]],
   ['descale',['DeScale',['../namespaceitppextmath.html#acbc392d9bfaea8f5490df9ceda31060d',1,'itppextmath']]],
   ['diagonal_5fsigma_5fz',['diagonal_sigma_z',['../namespaceitppextmath.html#ad194f701fd62db23d80d8a6d489f84b8',1,'itppextmath']]],

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['degenerate',['degenerate',['../classspinchain_1_1_compact_symmetric_base_member.html#a8d638bfe4f0ee09751025f08885aea7f',1,'spinchain::CompactSymmetricBaseMember']]]
+  ['k',['k',['../classspinchain_1_1_compact_symmetric_base_member.html#a9359993945e8fcb6cafb1be6fc925914',1,'spinchain::CompactSymmetricBaseMember']]],
+  ['k_5fv',['k_v',['../classspinchain_1_1_compact_symmetric2_d_base_member.html#abf8bb62a77aa222c3a9799ef5d81225e',1,'spinchain::CompactSymmetric2DBaseMember']]]
 ];

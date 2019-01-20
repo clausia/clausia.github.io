@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['c',['c',['../jquery_8js.html#abce695e0af988ece0826d9ad59b8160d',1,'jquery.js']]],
-  ['cachedlink',['cachedLink',['../navtree_8js.html#aaa2d293f55e5fe3620af4f9a2836e428',1,'navtree.js']]],
   ['cfp_5fmath_2ecpp',['cfp_math.cpp',['../cfp__math_8cpp.html',1,'']]],
   ['cfp_5fmath_2eh',['cfp_math.h',['../cfp__math_8h.html',1,'']]],
   ['cfp_5fmath_5fvarious',['CFP_MATH_VARIOUS',['../cfp__math_8cpp.html#a6f1d9f7c2b7c19251e76879354282413',1,'cfp_math.cpp']]],
@@ -22,13 +20,8 @@ var searchData=
   ['concurrence',['Concurrence',['../namespaceitppextmath.html#a4e3f5074fa29e7a5999d492feeaa846f',1,'itppextmath']]],
   ['concurrencefrompure',['ConcurrenceFromPure',['../namespaceitppextmath.html#a56519dfcf9ee1818eda9cae11ff0bf32',1,'itppextmath']]],
   ['contains',['Contains',['../namespaceitppextmath.html#ac8dcabc8b02af619d6cde04eacbcf29c',1,'itppextmath::Contains(const itpp::Mat&lt; Num_T &gt; &amp;v, const itpp::Vec&lt; Num_T &gt; &amp;e)'],['../namespaceitppextmath.html#a82e9c92239f7f42501843b19eb7c7cf6',1,'itppextmath::Contains(const itpp::Array&lt; Num_T &gt; &amp;v, const Num_T &amp;e)'],['../namespaceitppextmath.html#a343429c16a136c222ccf2fd96a282473',1,'itppextmath::Contains(const itpp::Array&lt; Num_T &gt; &amp;BigArray, const itpp::Array&lt; Num_T &gt; &amp;SmallArray)'],['../namespaceitppextmath.html#a0dc30346c37222cb0e8f2b13cdc9d5e1',1,'itppextmath::Contains(const itpp::Vec&lt; Num_T &gt; &amp;v, const Num_T &amp;e)']]],
-  ['content',['content',['../resize_8js.html#abaa405b2de1fea05ef421122098b4750',1,'resize.js']]],
   ['control_5fu_5fmatrix',['control_u_matrix',['../namespaceitppextmath.html#afeada4c0dcee4b2edd2c650d18113b17',1,'itppextmath']]],
-  ['cookie_5fnamespace',['cookie_namespace',['../resize_8js.html#ab3321080c64c8797ebbcd6e30982c62c',1,'resize.js']]],
   ['coupling',['coupling',['../test__spins_8cpp.html#a2ce6fa92a5877985608c9a8bf656b5b2',1,'coupling(&quot;&quot;,&quot;coupling&quot;,&quot;Ising interaction for the coupling&quot;, false, 0.01,&quot;double&quot;, cmd):&#160;test_spins.cpp'],['../test__spins2d_8cpp.html#a2ce6fa92a5877985608c9a8bf656b5b2',1,'coupling(&quot;&quot;,&quot;coupling&quot;,&quot;Ising interaction for the coupling&quot;, false, 0.01,&quot;double&quot;, cmd):&#160;test_spins2d.cpp']]],
   ['createcompactsymmetric2dbasememberfromgenerator',['CreateCompactSymmetric2DBaseMemberFromGenerator',['../namespacespinchain.html#a3ea56523f1f8db6d2fc1efbe0530bfa7',1,'spinchain']]],
-  ['createindent',['createIndent',['../navtree_8js.html#a4d8f406d49520a0cede2e48347a3d7aa',1,'navtree.js']]],
-  ['css',['css',['../jquery_8js.html#a89ad527fcd82c01ebb587332f5b4fcd4',1,'jquery.js']]],
-  ['curcss',['curCSS',['../jquery_8js.html#a88b21f8ba3af86d6981b1da520ece33b',1,'jquery.js']]],
   ['currentdatetime',['currentDateTime',['../test__spins_8cpp.html#aa46369f3c8adbff876c82270346fffa2',1,'test_spins.cpp']]]
 ];

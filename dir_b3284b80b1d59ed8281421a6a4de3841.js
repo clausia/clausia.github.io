@@ -1,6 +1,5 @@
 var dir_b3284b80b1d59ed8281421a6a4de3841 =
 [
-    [ "doc", "dir_7cec3821c91c6fb8a6ddeddf4d39d4fa.html", "dir_7cec3821c91c6fb8a6ddeddf4d39d4fa" ],
     [ "cfp_math.cpp", "cfp__math_8cpp.html", "cfp__math_8cpp" ],
     [ "cfp_math.h", "cfp__math_8h.html", "cfp__math_8h" ],
     [ "dev_random.cpp", "dev__random_8cpp.html", "dev__random_8cpp" ],

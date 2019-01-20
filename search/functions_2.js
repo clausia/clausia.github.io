@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['cachedlink',['cachedLink',['../navtree_8js.html#aaa2d293f55e5fe3620af4f9a2836e428',1,'navtree.js']]],
   ['checkelementsgue',['CheckElementsGUE',['../namespace_r_m_t.html#ab9177cf52e9780c8be3c32c21dc75dd1',1,'RMT']]],
   ['checkunfolded',['CheckUnfolded',['../namespace_r_m_t.html#a80de55934dec077ed0bdfef4c774aec0',1,'RMT']]],
   ['chop',['Chop',['../namespaceitppextmath.html#a39da0a7fb06611a087d72ecd759423c5',1,'itppextmath::Chop(const Num_T &amp;A, double epsilon=1e-12)'],['../namespaceitppextmath.html#a00645b58e536763060582c6411c5b6b7',1,'itppextmath::Chop(const itpp::Vec&lt; Num_T &gt; &amp;A, double epsilon=1e-12)'],['../namespaceitppextmath.html#a7ebafac54b56ab288d0aec64601c50e6',1,'itppextmath::Chop(const itpp::Mat&lt; Num_T &gt; &amp;A, double epsilon=1e-12)']]],
@@ -17,6 +16,5 @@ var searchData=
   ['control_5fu_5fmatrix',['control_u_matrix',['../namespaceitppextmath.html#afeada4c0dcee4b2edd2c650d18113b17',1,'itppextmath']]],
   ['coupling',['coupling',['../test__spins_8cpp.html#a2ce6fa92a5877985608c9a8bf656b5b2',1,'coupling(&quot;&quot;,&quot;coupling&quot;,&quot;Ising interaction for the coupling&quot;, false, 0.01,&quot;double&quot;, cmd):&#160;test_spins.cpp'],['../test__spins2d_8cpp.html#a2ce6fa92a5877985608c9a8bf656b5b2',1,'coupling(&quot;&quot;,&quot;coupling&quot;,&quot;Ising interaction for the coupling&quot;, false, 0.01,&quot;double&quot;, cmd):&#160;test_spins2d.cpp']]],
   ['createcompactsymmetric2dbasememberfromgenerator',['CreateCompactSymmetric2DBaseMemberFromGenerator',['../namespacespinchain.html#a3ea56523f1f8db6d2fc1efbe0530bfa7',1,'spinchain']]],
-  ['createindent',['createIndent',['../navtree_8js.html#a4d8f406d49520a0cede2e48347a3d7aa',1,'navtree.js']]],
   ['currentdatetime',['currentDateTime',['../test__spins_8cpp.html#aa46369f3c8adbff876c82270346fffa2',1,'test_spins.cpp']]]
 ];
